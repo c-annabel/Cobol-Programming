@@ -1,6 +1,6 @@
 # CST8283 Business Programming — COBOL Coursework
 
-> **Algonquin College ·  Winter/Spring 2025**
+> **Algonquin College ·  Summer 2025**
 > Compiled with GnuCOBOL (`cobc`) on Windows.
 
 A collection of COBOL programs written for CST8283 Business Programming, covering sequential and indexed file I/O, internal table handling, multi-file reporting, and modular program design via `COPY` and `CALL`.
